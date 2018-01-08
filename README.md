@@ -8,3 +8,5 @@
 **Day 3:** Started working on replicating the Google search results page from the Odin curriculum. Created basic webpage structure using HTML and started to style the top menu bar with CSS. Worked on web optimization with Udacity course.
 
 **Day 4:** Revised HTML structure of top bar menu and fixed issues with top bar menu.
+
+**Day 5:** Completed header and content (list of search results).
